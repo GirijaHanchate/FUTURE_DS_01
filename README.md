@@ -73,7 +73,7 @@ Analytical Thinking & Insight Generation
 Successfully created a professional and interactive sales dashboard that allows businesses to monitor performance, identify growth opportunities, and make strategic decisions.
 
 📷 Dashboard Preview
-
+![image_alt] (https://github.com/GirijaHanchate/FUTURE_DS_01/blob/c42060ddda5d9d838d905eac456b03853a8e0495/dirty_sales_data_Screenshort.png)
 
 
 
